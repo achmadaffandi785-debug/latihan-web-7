@@ -1,0 +1,98 @@
+```css
+/* Selector tag */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #dbeafe, #eff6ff);
+    margin: 0;
+    padding: 50px 20px;
+    color: #333;
+}
+
+/* Kartu profil */
+.kartu {
+    width: 400px;
+    max-width: 100%;
+    margin: auto;
+    padding: 30px;
+    background-color: white;
+    border: 2px solid #1e3a5f;
+    border-radius: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Bagian header */
+.header {
+    background-color: #1e3a5f;
+    margin: -30px -30px 25px;
+    padding: 30px;
+    border-radius: 18px 18px 0 0;
+}
+
+/* Foto */
+.foto {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+/* Selector ID */
+#nama {
+    font-family: Georgia, serif;
+    color: #1e3a5f;
+    margin: 10px 0 5px;
+    font-size: 30px;
+}
+
+/* Status */
+.status {
+    color: #2563eb;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+/* Informasi */
+.data {
+    background-color: #f1f5f9;
+    padding: 15px;
+    margin-bottom: 25px;
+    border-radius: 12px;
+    text-align: left;
+}
+
+/* Selector class */
+.info {
+    margin: 10px 0;
+    font-size: 14px;
+    color: #475569;
+}
+
+.info strong {
+    display: inline-block;
+    width: 125px;
+    color: #1e3a5f;
+}
+
+/* Tentang saya */
+.tentang {
+    border-top: 2px solid #dbeafe;
+    padding-top: 15px;
+}
+
+.tentang h2 {
+    font-family: Georgia, serif;
+    color: #1e3a5f;
+    margin-bottom: 10px;
+}
+
+.deskripsi {
+    font-family: Arial, sans-serif;
+    color: #555;
+    line-height: 1.7;
+    text-align: justify;
+    margin: 0;
+}
+```
